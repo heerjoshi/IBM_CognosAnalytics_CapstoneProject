@@ -1,5 +1,9 @@
 # IBM Cognos Analytics Capstone Project
 
+Work on it, transfered the dataset now the codes
+
+..https://github.com/AhsanAyaz01/IBM-Data-Analyst-Capstone-Project/blob/main/Collecting_data_using_API_review-Lab.ipynb
+
 ## Overview
 This project is part of the IBM Data Analyst Professional Certificate and focuses on analyzing current and future technology trends in the IT industry. As a Data Analyst at a global IT consulting firm, the goal is to help the organization stay competitive by identifying emerging skills and technologies in demand.
 
