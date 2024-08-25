@@ -1,78 +1,54 @@
-# IBM_CognosAnalytics_CapstoneProject
+# IBM Cognos Analytics Capstone Project
 
 ## Overview
+This project is part of the IBM Data Analyst Professional Certificate and focuses on analyzing current and future technology trends in the IT industry. As a Data Analyst at a global IT consulting firm, the goal is to help the organization stay competitive by identifying emerging skills and technologies in demand.
 
-1. **Current Technology Usage**: Visualization of the top technologies respondents have worked with.
-2. **Future Technology Trends**: Insights into the technologies respondents desire to work with in the upcoming year.
-3. **Demographics**: Analysis of respondent demographics, including gender, country, age, and education level.
+## Objectives
+1. **Current Technology Usage:** Visualize the top technologies that respondents have worked with.
+2. **Future Technology Trends:** Identify technologies that respondents wish to work with in the coming year.
+3. **Demographics:** Analyze respondent demographics such as gender, country, age, and education level.
 
 ## Dashboard Components
+1. **Current Technology Usage:**
+   - **Top 10 Programming Languages:** Bar Chart
+   - **Top 10 Databases:** Column Chart
+   - **Platforms:** Word Cloud Chart
+   - **Top 10 Web Frameworks:** Hierarchy Bubble Chart
 
-### 1. **Current Technology Usage**
-   - **Top 10 Programming Languages Worked With**:
-     - **Visualization Type**: Bar Chart
-     - **Fields Used**: Bars, Length, Color
-     - **Features**: Show value labels, Chart title
-   - **Top 10 Databases Worked With**:
-     - **Visualization Type**: Column Chart
-     - **Fields Used**: Bars, Length, Color
-     - **Features**: Show value labels, Chart title
-   - **Platforms Worked With**:
-     - **Visualization Type**: Word Cloud Chart
-     - **Fields Used**: Words, Size, Color
-     - **Features**: Chart title
-   - **Top 10 Web Frameworks Worked With**:
-     - **Visualization Type**: Hierarchy Bubble Chart
-     - **Fields Used**: Bubbles, Size, Color
-     - **Features**: Chart title
+2. **Future Technology Trends:**
+   - **Top 10 Programming Languages Desired:** Bar Chart
+   - **Top 10 Databases Desired:** Column Chart
+   - **Desired Platforms:** Tree Map Chart
+   - **Top 10 Web Frameworks Desired:** Hierarchy Bubble Chart
 
-### 2. **Future Technology Trends**
-   - **Top 10 Programming Languages Desired for Next Year**:
-     - **Visualization Type**: Bar Chart
-     - **Fields Used**: Bars, Length, Color
-     - **Features**: Show value labels, Chart title
-   - **Top 10 Databases Desired for Next Year**:
-     - **Visualization Type**: Column Chart
-     - **Fields Used**: Bars, Length, Color
-     - **Features**: Show value labels, Chart title
-   - **Desired Platforms for Next Year**:
-     - **Visualization Type**: Tree Map Chart
-     - **Fields Used**: Area hierarchy, Size, Heat
-     - **Features**: Contrast label color, Chart title
-   - **Top 10 Web Frameworks Desired for Next Year**:
-     - **Visualization Type**: Hierarchy Bubble Chart
-     - **Fields Used**: Bubbles, Size, Color
-     - **Features**: Chart title
+3. **Demographics:**
+   - **Gender Distribution:** Pie Chart
+   - **Respondent Distribution by Country:** Map Chart
+   - **Age Distribution:** Line Chart
+   - **Education Level by Gender:** Stacked Bar Chart
 
-### 3. **Demographics**
-   - **Respondent Classified by Gender**:
-     - **Visualization Type**: Pie Chart
-     - **Fields Used**: Segments, Size
-     - **Features**: Display %, Chart title
-   - **Respondent Count for Countries**:
-     - **Visualization Type**: Map Chart
-     - **Fields Used**: Regions-Locations, Regions-Location color
-     - **Features**: Chart title
-   - **Respondent Count by Age**:
-     - **Visualization Type**: Line Chart
-     - **Fields Used**: x-axis, y-axis
-     - **Features**: Show value labels, Show markers, Chart title
-   - **Respondent Count by Gender and Classified by Education Level**:
-     - **Visualization Type**: Stacked Bar Chart
-     - **Fields Used**: Bars, Length, Color
-     - **Features**: Show value labels, Chart title
+## Key Insights
 
-## Findings
+- **Current Trends:** JavaScript is the most commonly used programming language, and SQL is a top database skill.
+- **Future Trends:** Python is highly desired for future learning, and Linux remains the most preferred platform.
+- **Demographics:** The majority of respondents are young professionals, with a significant portion holding a Bachelor's degree.
 
-The full analysis and visualizations are available in the attached PDF file, which includes detailed insights on the current technology usage, future technology trends, and respondent demographics. The dashboard offers a clear and concise view of the most popular technologies among developers, as well as their aspirations for the coming year.
+## Data Collection and Analysis
 
-### Key Highlights:
-- **JavaScript** remains the most commonly used programming language.
-- **Python** is highly sought after for future learning.
-- **Linux** is the most preferred platform for future use.
-- Demographic analysis reveals that a majority of respondents are young professionals, with a significant portion holding a Bachelor's degree.
-  
----
+Data was collected from multiple sources, including job postings, training portals, and surveys. The data was then cleaned, analyzed, and visualized using IBM Cognos Analytics to create an interactive dashboard. The dashboard provides a comprehensive view of the current and future technology trends.
 
-**Note**: This repository includes the PDF file summarizing the findings and visualizations from the dashboard for offline review.
+## Deliverables
+
+- **Interactive Dashboard**: Visual representation of the analysis.
+- **Project Presentation**: Summary of findings for stakeholders including Human Resource and IT Heads.
+
+## Repository Contents
+
+- `dashboard_link.txt`: Link to the IBM Cognos Analytics Dashboard.
+- `presentation_link.txt`: Link to the project presentation.
+- `findings.pdf`: Detailed report with visualizations and insights.
+
+## Conclusion
+
+This project provides valuable insights into the current and future technology trends in the IT industry, helping the organization identify skill requirements and stay competitive.
 
