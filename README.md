@@ -42,12 +42,6 @@ Data was collected from multiple sources, including job postings, training porta
 - **Interactive Dashboard**: Visual representation of the analysis.
 - **Project Presentation**: Summary of findings for stakeholders including Human Resource and IT Heads.
 
-## Repository Contents
-
-- `dashboard_link.txt`: Link to the IBM Cognos Analytics Dashboard.
-- `presentation_link.txt`: Link to the project presentation.
-- `findings.pdf`: Detailed report with visualizations and insights.
-
 ## Conclusion
 
 This project provides valuable insights into the current and future technology trends in the IT industry, helping the organization identify skill requirements and stay competitive.
